@@ -24,7 +24,7 @@ The goal of DAP is to ...
 
 You can install the development version of DAP like so:
 
-``` r
+```r
 # FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
 ```
 
